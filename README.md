@@ -12,9 +12,9 @@ This Repo is a test Repo to understand:
 **Bio:** A wizard who has the ability to conjure code and with that code make paper 💸 rain from the heavens.
 
 **Social(s):**
-- Twitter: https://x.com/papercasterdev
+Twitter: https://x.com/papercasterdev
 
-**Location:** *Middle Earth* :earth:
+**Location:** *Middle Earth* ⛰️
 
 **Hobbies:**
 - Fireworks
